@@ -25,6 +25,17 @@ facebook_username:  username
 # weibo_username:   username
 
 
+# Friends
+friends: [
+    {
+        title: "",
+        href: ""
+    },
+    {
+        title: "",
+        href: ""
+    }
+]
 
 
 # Build settings
