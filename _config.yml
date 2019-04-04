@@ -64,7 +64,6 @@ kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
 
-
 # 评论系统
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
@@ -73,11 +72,11 @@ kramdown:
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 0a6897d2b845205adf9c                            #生成的clientID
-  clientSecret: 3f6816469f8e22a822a00f82419c240c0deb2bd8   #生成的clientSecret
+  clientSecret: 3f6816469f8e22a822a00f82419c240c0deb2bd8    #生成的clientSecret
   repo: chengentop.github.io    #仓库名称
   owner: chengentop    #github用户名
+  admin: chengentop
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
 
 # 统计
 
