@@ -72,8 +72,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
- # clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  #clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
+  clientID: 818692a8eb635293108a                            #生成的clientID
+  clientSecret: 9b2630cb96dc3481656e53673d2a3fc8208184d0   #生成的clientSecret
   repo: chengentop.github.io    #仓库名称
   owner: chengentop    #github用户名
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -86,7 +86,7 @@ gitalk:
 #ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
