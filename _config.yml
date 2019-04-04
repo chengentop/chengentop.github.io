@@ -17,7 +17,7 @@ sidebar-avatar: /img/H.jpg      # use absolute URL, seeing it's used in both `/`
 
 
 # SNS settings
-RSS: true
+RSS: false
 github_username:    chengentop
 jianshu_username: 	jianshu_id 
 zhihu_username:     username
