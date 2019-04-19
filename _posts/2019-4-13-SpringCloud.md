@@ -14,6 +14,7 @@ Spring Cloud 是一系列框架的有序集合。它利用 Spring Boot 的开发
 
 1. Spring Cloud基于Springboot的，利用了Spring boot 的特性
 1. Spring Cloud组合了很多优秀的服务框架
+
 # 什么是微服务
 要了解 Spring Cloud 就绕不开微服务这个概念。因为 Spring Cloud 是 Spring 为微服务架构思想做的一个一站式实现。从某种程度是可以简单的理解为，微服务是一个概念、一个项目开发的架构思想。Spring Cloud 是微服务架构的一种 Java 实现。
 
