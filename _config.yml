@@ -12,7 +12,7 @@ github_repo: "https://github.com/chengentop/chengentop.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "既然选择远方,便只顾风雨兼程"
-sidebar-avatar: /img/H.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/buddha.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
